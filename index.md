@@ -3,7 +3,7 @@
 Come learn about the different ways that technology can directly connect users in ways that disrupt the existing financial infrastructure
 
 ## Club Leaders
-![Rob](rob_michele.png)
+![Rob](robert_michele.png)
 Rob Michele
 
 ### [Join the club!](wakefintech-signup-form)

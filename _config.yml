@@ -1,5 +1,5 @@
 #theme: jekyll-theme-cayman
-remote_theme:CloudCannon/hydra-jekyll-template
+remote_theme: CloudCannon/hydra-jekyll-template
 title: Wake Fintech
 description: This site hosts the latest information behind what's happening on Wake Forest's campus around Blockchain and Financial Technology
 github_username: brockly

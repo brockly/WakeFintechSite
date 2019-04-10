@@ -4,7 +4,7 @@ Come learn about the different ways that technology can directly connect users i
 
 ## Club Leaders
 
-#Rob Michele
+# Rob Michele
 ![Rob](robert_michele.png){:height="25%" width="25%"}Rob Michele
 
 ### [Join the club!](wakefintech-signup-form)

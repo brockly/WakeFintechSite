@@ -7,6 +7,10 @@ Come learn about the different ways that technology can directly connect users i
 ### Rob Michele
 ![Rob](robert_michele.png){:height="25%" width="25%"}
 
+Rob Michele                |  Alex Brockman
+:-------------------------:|:-------------------------:
+![Rob](robert_michele.png){:height="25%" width="25%"}  |  ![Alex](alex_brockman_jpg)
+
 ### [Join the club!](wakefintech-signup-form)
 
 ## The purpose of this club
